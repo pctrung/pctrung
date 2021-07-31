@@ -5,7 +5,13 @@
 </p> 
 
 ## 🛠️ My Skills
-<b>ASP.NET (Core) | React <br> Tailwind | SCSS <br> C# | PHP | HTML | CSS | JS | SQL <br> Azure </b> 
+<b><br>  <br>  <br>  </b> 
+<ul>
+	<li>ASP.NET (Core) | React </li>
+	<li>Tailwind | SCSS</li>
+	<li>C# | PHP | HTML | CSS | JS | SQL</li>
+	<li>Azure | Github Pages | Heroku</li>
+</ul>
  
 <br/>
 
