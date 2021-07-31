@@ -16,10 +16,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Trung Pham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pctrung&show_icons=true&count_private=true&theme=react-dark " height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Trung Pham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pctrung&show_icons=true&count_private=true&theme=react" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pctrung&show_icons=true&locale=en&layout=compact&theme=react-dark " alt="pctrung" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pctrung&show_icons=true&locale=en&layout=compact&theme=react" alt="pctrung" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
