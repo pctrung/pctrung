@@ -5,7 +5,8 @@
 </p> 
 
 ## 🛠️ My Skills
-<b>.NET (Core) | React | Tailwind | SCSS | Azure</b>
+<b>.NET (Core) |  <br> Tailwind | SCSS <br> Azure </b>
+<img width="26px" src="https://img.icons8.com/cute-clipart/50/000000/react-native.png"/> React
  
 <br/>
 
