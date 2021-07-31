@@ -5,11 +5,7 @@
 </p> 
 
 ## 🛠️ My Skills
-<b>.NET (Core)</b>
-<b>React</b>
-<b>Tailwind CSS</b>
-<b>SCSS</b>
-<b>Azure</b>
+<b>.NET (Core) | React | Tailwind | SCSS | Azure</b>
  
 <br/>
 
