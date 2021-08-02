@@ -45,9 +45,9 @@
 <p align="center">
 	<a target="_blank" href="mailto:pctrung1102@gmail.com"><img src="https://img.icons8.com/fluency/50/000000/mail.png"/></a>
 	<a target="_blank" href="https://github.com/pctrung"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
-	<a target="_blank" href="https://www.linkedin.com/in/trung-ph%E1%BA%A1m-101b871a2/"><img src="https://img.icons8.com/fluency/50/000000/linkedin-circled.png"/></a>
-	<a target="_blank" href="https://www.facebook.com/trungxi.it"><img src="https://img.icons8.com/fluency/50/000000/facebook-circled.png"/></a>
-	<a target="_blank" href="https://instagram.com/trungxi.it"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+	<a target="_blank" href="https://www.linkedin.com/in/pctrung"><img src="https://img.icons8.com/fluency/50/000000/linkedin-circled.png"/></a>
+	<a target="_blank" href="https://www.facebook.com/pctrung1102"><img src="https://img.icons8.com/fluency/50/000000/facebook-circled.png"/></a>
+	<a target="_blank" href="https://instagram.com/pctrung1102"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pctrung&label=Profile%20views&color=0e75b6&style=plastic" alt="pctrung" /> </p> 
