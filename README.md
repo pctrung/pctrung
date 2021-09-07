@@ -6,7 +6,7 @@
 
 ## 🛠️ My Skills 
 <ul>
-	<li>ASP.NET (Core) | React </li>
+	<li>ASP.NET (Core) | ReactJS </li>
 	<li>Tailwind | SCSS</li>
 	<li>C# | PHP | HTML | CSS | JS | SQL</li>
 	<li>Azure | Github Pages | Heroku</li>
