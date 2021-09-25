@@ -42,7 +42,7 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-	<a href="mailto:pctrung1102@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/mail.png"/></a>
+	<a href="mailto:phamtrung.work@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/mail.png"/></a>
 	<a href="https://github.com/pctrung" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/pctrung" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/linkedin-circled.png"/></a>
 	<a href="https://www.facebook.com/pctrung1102" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/facebook-circled.png"/></a>
