@@ -42,11 +42,11 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-	<a href="mailto:phamtrung.work@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/mail.png"/></a>
+	<a href="mailto:phamchitrung.work@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/mail.png"/></a>
 	<a href="https://github.com/pctrung" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/pctrung" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/linkedin-circled.png"/></a>
-	<a href="https://www.facebook.com/pctrung1102" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/facebook-circled.png"/></a>
-	<a href="https://instagram.com/pctrung1102" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+	<a href="https://www.linkedin.com/in/phamchitrung" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/linkedin-circled.png"/></a>
+	<a href="https://www.facebook.com/trungpham.it" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/facebook-circled.png"/></a>
+	<a href="https://instagram.com/trungpham.it" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pctrung&label=Profile%20views&color=0e75b6&style=plastic" alt="pctrung" /> </p> 
