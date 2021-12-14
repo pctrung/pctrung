@@ -7,7 +7,8 @@
 ## 🛠️ My Skills 
 <ul>
 	<li>ASP.NET Core | ReactJS </li>
-	<li>Tailwind | SCSS</li>
+	<li> C# | Js | Ts </li>
+	<li>Tailwind | CSS</li>
 	<li>UI Design | Azure</li>
 </ul>
  
